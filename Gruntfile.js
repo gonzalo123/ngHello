@@ -11,8 +11,6 @@ module.exports = function (grunt) {
         banner: '/*! ngHello v<%= cmpnt.version %> by Gonzalo Ayuso(gonzalo123@gmail.com) - ' +
             'http://github.com/gonzalo123/ngHello - MIT License */\n',
 
-        pkg: grunt.file.readJSON('package.json'),
-
         jshint: {
             files: ['Gruntfile.js', 'karma.conf.js', 'src/**.js', 'test/**.js'],
             options: {
