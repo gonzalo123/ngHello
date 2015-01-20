@@ -50,6 +50,5 @@ module.exports = function (grunt) {
             }
         }
     });
-
     grunt.registerTask('build', ['clean', 'jshint', 'karma', 'copy', 'uglify']);
 };

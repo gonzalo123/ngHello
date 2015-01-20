@@ -1,5 +1,6 @@
 Hello.js + AngularJS
 =================
+[![Build Status](https://travis-ci.org/gonzalo123/ngHello.svg?branch=master)](https://travis-ci.org/gonzalo123/ngHello)
 
 Code licensed under MIT License.
 
