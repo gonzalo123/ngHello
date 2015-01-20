@@ -1,6 +1,6 @@
 {
-  "name": "ngHello",
-  "version": "0.0.0",
+  "name": "ng-hello",
+  "version": "1.0.0",
   "authors": [
     "Gonzalo Ayuso <gonzalo123@gmail.com>"
   ],
@@ -11,6 +11,10 @@
   ],
   "main": [
     "./dist/ng-hello.min.js"
+  ],
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
   ],
   "dependencies": {
     "angular": "~1",
