@@ -53,5 +53,5 @@ module.exports = function (grunt) {
         }
     });
 
-    grunt.registerTask('build', ['clean', 'karma', 'jshint', 'copy', 'uglify']);
+    grunt.registerTask('build', ['clean', 'jshint', 'karma', 'copy', 'uglify']);
 };
