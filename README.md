@@ -21,5 +21,5 @@ It uses Karma to ensure the quality of the code. The easiest way to run these ch
 ```sh
 npm install -g grunt-cli
 npm install && bower install
-grunt
+grunt karma
 ```
