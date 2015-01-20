@@ -8,7 +8,7 @@ Allows to use [hello.js](http://adodson.com/hello.js/) with AngularJS
 ## Example
 
 ```
-``
+```
 
 ## Installing via Bower
 ```

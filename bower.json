@@ -4,7 +4,7 @@
   "authors": [
     "Gonzalo Ayuso <gonzalo123@gmail.com>"
   ],
-  "description": "Angularjs provider for hello.js",
+  "description": "AngularJS provider for hello.js",
   "keywords": [
     "angularjs",
     "hello.js"
