@@ -13,19 +13,10 @@ module.exports = function (config) {
             'test/*.js'
         ],
 
-        preprocessors: {
-            '*.js': 'coverage'
-        },
-
-        reporters: ['progress', 'coverage'],
+        reporters: ['progress'],
 
         autoWatch: true,
 
-        browsers: ['PhantomJS'],
-
-        coverageReporter: {
-            type: 'lcov',
-            dir: 'out/coverage'
-        }
+        browsers: ['PhantomJS']
     });
 };

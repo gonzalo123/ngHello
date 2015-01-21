@@ -9,7 +9,6 @@
   "author": "Gonzalo Ayuso <gonzalo123@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "coveralls": "^2.11.2",
     "grunt": "^0.4.5",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-copy": "^0.7.0",
